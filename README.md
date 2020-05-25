@@ -133,6 +133,7 @@ This will automatically save your changes and open a pull request, allowing the 
 
 **Squash and Merge (Merge)**: Taking new or modified files, and putting them live
 
+
 *This is what will happen after somebody has a successful review on their pull request. It'll take the modified files, and put them into the "master" version of the repo, which is what's on our site*
 
 
